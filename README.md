@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **psmsk77/psmsk77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
