@@ -1,5 +1,8 @@
 ### Hi there! 👋
+
 Now I'm taking courses, learning new technologies and looking for a job.
+
+How to contact me: Just send email to [psmsk77@gmail.com](mailto:psmsk77@gmail.com)
 
 ### My tech stack
 Linux, Python, SQL
