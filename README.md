@@ -1,4 +1,8 @@
 ### Hi there! 👋
+Now I'm taking courses, learning new technologies and looking for a job.
+
+### My tech stack
+Linux, Python, SQL
 
 <!--
 **psmsk77/psmsk77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
